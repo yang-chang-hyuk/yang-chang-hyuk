@@ -1,3 +1,4 @@
+<div align=center>
 ![header](https://capsule-render.vercel.app/api?type=wave&color=F8E2CF&height=300&section=header&text=안녕하세요👋&fontSize=90)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yang-chang-hyuk&show_icons=true&theme=dracula)
@@ -29,3 +30,4 @@
 
 😄ME😄
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+  </div>
