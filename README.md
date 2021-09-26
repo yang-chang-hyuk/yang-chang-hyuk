@@ -1,8 +1,8 @@
-### Hi there 👋
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=F8E2CF&height=300&section=header&text=안녕하세요👋&fontSize=90)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yang-chang-hyuk&show_icons=true&theme=dracula)
+
+https://github.com/gjbae1212/hit-counter
 <!--
 **yang-chang-hyuk/yang-chang-hyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
