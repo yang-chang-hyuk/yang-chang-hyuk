@@ -1,11 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=F8E2CF&height=300&section=header&text=안녕하세요👋&fontSize=90)
+<div align=center>
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=F8E2CF&height=300&section=header&text=WELCOME👋&fontSize=90)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yang-chang-hyuk&show_icons=true&theme=dracula)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23F6C383&title_bg=%23555555&icon=staffbase.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<div align=center>
-  
-  💪Skills
 
+
+💪Skills
+  
 ✨Front-end
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
